@@ -19,7 +19,7 @@ namespace Project_UAS_Database
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Testaa
+            Test
         }
     }
 }
